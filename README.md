@@ -1,5 +1,3 @@
-# ㅎㅇ
-
 <div align=center><h2>📚 Tech Stack 📚</h2></div>
 <br>
 <div align=center> 
